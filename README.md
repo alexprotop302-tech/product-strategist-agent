@@ -23,7 +23,7 @@ git clone https://github.com/alexprotop302-tech/product-strategist-agent.git
 2. [AGENTS.md](AGENTS.md) — конституция агента: карта файлов и правила маршрутизации.
 3. [docs/model-eval.md](docs/model-eval.md) — протокол: 16 зачётных прогонов, ключи оценки, время и расход квоты по каждой ячейке.
 4. [docs/report.md](docs/report.md) — отчёт цикла: методика, канальные инциденты, выводы.
-5. [answers/](/answers) — сырьё: дословные ответы моделей и скриншоты, не редактируются.
+5. [answers/](answers/) — сырьё: дословные ответы моделей и скриншоты, не редактируются.
 
 ## Методика
 
